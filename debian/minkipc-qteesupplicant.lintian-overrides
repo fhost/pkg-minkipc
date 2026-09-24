@@ -1,0 +1,3 @@
+# Keep those libraries in one package, therefore it is not following the
+# Debian naming convention.
+minkipc-qteesupplicant: package-name-doesnt-match-sonames libfsservice1 libgpfsservice1 librpmbservice1 libtaautoload1 libtimeservice1
